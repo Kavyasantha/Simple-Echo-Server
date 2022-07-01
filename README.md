@@ -2,7 +2,6 @@
 -----
 
 Kavya Santha Kumar
-Boyu Li
 
 Project Description:
 ---
