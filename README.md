@@ -1,15 +1,8 @@
-#MP1
-For Mahcine Problem1 in ECEN 602
-====
+#TCP Echo Service
+-----
 
-
-Team number:10
----
-
-Team member:
----
-		Kavya Santha Kumar
-		Boyu Li
+Kavya Santha Kumar
+Boyu Li
 
 Project Description:
 ---
